@@ -1,4 +1,4 @@
-def arithSeq(a, d, n=5): #n=5 is the default value
+def arithSeq(a: int, d: int, n: int = 5) -> int: #n=5 is the default value
     "Print an arithmetic sequence of length 'n', starting at 'a', with common difference 'd'."
 
     last = a + (n-1) * d
@@ -6,3 +6,5 @@ def arithSeq(a, d, n=5): #n=5 is the default value
         print(x)
 
 arithSeq(3, 3, 10)
+
+print(arithSeq.__annotations__)
