@@ -4,6 +4,6 @@ def unpack_range(args):
     This is similar to the spread and rest operator (...) in JavaScript"""
     print(list(range(*args)))
 
-unpackRange([1,10])
+unpack_range([1,10])
 
-print(unpackRange.__doc__)
+print(unpack_range.__doc__)
