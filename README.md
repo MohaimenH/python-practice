@@ -15,4 +15,4 @@ August 20 - Finished till Chapter 4 of the tutorial.
 
 August 21 - Started Chapter 5.
 
-September 1 - Finished Chapter 5, took a longer time due to preparing for the upcoming semester.
+September 1 - Finished Chapter 5, took a longer time due to preparing for the upcoming semester. Started Chapter 6 as well.
