@@ -14,3 +14,5 @@ August 13 - Started the tutorial and made the repository. Have to take a few day
 August 20 - Finished till Chapter 4 of the tutorial.
 
 August 21 - Started Chapter 5.
+
+September 1 - Finished Chapter 5, took a longer time due to preparing for the upcoming semester.

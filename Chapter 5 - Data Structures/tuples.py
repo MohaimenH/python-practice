@@ -1,3 +1,9 @@
+elem = 123,
+
+oneElemTuple =(elem)
+
+print(oneElemTuple, type(oneElemTuple[0]))
+
 tuples = (12435, "hello", False)
 
 print(tuples)
