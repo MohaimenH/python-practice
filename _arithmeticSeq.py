@@ -5,6 +5,10 @@ def arithSeq(a: int, d: int, n: int = 5) -> int: #n=5 is the default value
     for x in range (a, last+1, d):
         print(x)
 
-arithSeq(3, 3, 10)
+start = 3
+diff = 3
+length = 5
 
-print(arithSeq.__annotations__)
+arithSeq(start, diff, length)
+
+# print(arithSeq.__annotations__)
