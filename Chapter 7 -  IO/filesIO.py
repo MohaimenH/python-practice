@@ -10,8 +10,8 @@ with open('dummyFile') as f:
     f.seek(3,0)
     read_data2 = f.read()
 
-print(read_data)
-print(read_data2)
+print("read_data: ", read_data)
+print("read_data2: ", read_data2)
 
 with open('dummyFile3', 'w') as f:
     value = ('the answer', 42)
